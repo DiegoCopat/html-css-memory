@@ -93,7 +93,6 @@ h1 {
     position: absolute;
     object-fit: contain;
     z-index: 1;
-    border: 2px solid #7E9DA8;
 }
 
 .carta> img {
