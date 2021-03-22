@@ -46,7 +46,7 @@ h1 {
 #gioco {
     width: 940px;
     height: 750px;
-    background-color: green; 
+    /* background-color: green;  */
     margin: 50px auto 0 auto;
     position: relative;
 }
@@ -58,7 +58,12 @@ h1 {
     background-color: white;
     z-index: 1;
     display: inline-block;
+    object-fit: contain;
 }
+
+/* .carta-dritta {
+    display: contain;
+} */
 
 /* css del footer  */
 footer {
