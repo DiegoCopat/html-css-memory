@@ -25,13 +25,12 @@ h1 {
     background-color: white;
 }
 .scritta {
-    font-size: 30px;
+    font-size: 25px;
     background-color: white;
     z-index: 2;
     position: absolute;
     width: 100%;
     text-align: center;
-
 }
 
 .prima-riga {
@@ -54,6 +53,25 @@ h1 {
 }
 .quarto-posto {
     left: 720px;
+}
+
+.blu {
+    color: blue;
+}
+.rosso {
+    color: red;
+}
+.verde {
+    color: green;
+}
+.arancio {
+    color: orange;
+}
+.azzurro {
+    color: rgb(89, 208, 245);
+}
+.viola {
+    color: violet;
 }
 
 
